@@ -2,9 +2,10 @@
 
 Just playing with an API from open-meteo. Trying not to use too many baked-in solutions. Intended to be a pure CLI program.
 
-#### TODO: Parse output with a clean display
-#### TODO: Show forecast for 7-10 days
-#### TODO: Allow entering a City name as argument
+### TODO
+- Parse output with a clean display
+- Show forecast for 7-10 days
+- Allow entering a City name as argument
 
 ### API: [Open-Meteo](https://open-meteo.com/en/docs#api_form)
 
